@@ -1,0 +1,6 @@
+{
+  "name": "Personal Music Mentor",
+  "description": "Your AI music teacher for daily practice and learning any instrument or topic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
